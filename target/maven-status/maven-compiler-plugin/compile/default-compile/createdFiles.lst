@@ -1,0 +1,16 @@
+com\customerreview\Models\Product.class
+com\customerreview\ExceptionsAndErrors\RatingException.class
+com\customerreview\Repositories\CustomerReviewRepositoryImpl.class
+com\customerreview\Models\CustomerReview.class
+com\customerreview\Repositories\CustomerReviewRepository.class
+com\customerreview\Controllers\MainController.class
+com\customerreview\RestConfig.class
+com\customerreview\ExceptionsAndErrors\CustomErrorResponse$1.class
+com\customerreview\Models\RestResponse.class
+com\customerreview\Repositories\CustomerReviewRepositoryCustom.class
+com\customerreview\Application.class
+com\customerreview\Models\User.class
+com\customerreview\Repositories\ProductRepository.class
+com\customerreview\Repositories\UserRepository.class
+com\customerreview\ExceptionsAndErrors\CurseException.class
+com\customerreview\ExceptionsAndErrors\CustomErrorResponse.class
